@@ -125,7 +125,7 @@ a | (a -> b | ~b)
 ```
 
 You can also use the [TPTP syntax](http://tptp.cs.miami.edu/TPTP/QuickGuide/Problems.html).
-Examples of formulas aren the `.p` files in the directory `formulas`.
+For some examples of formulas (also in the TPTP syntax), see  the `.p` files in the directory `formulas`.
 
 
 
