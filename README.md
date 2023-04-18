@@ -97,7 +97,7 @@ your `PATH` variable (or write the complete path to the command).
 
 
 
-###Running
+### Running
 
 
 The input formula must be written in a text file. A formula `F` is specified by the following syntax:
