@@ -1,0 +1,17 @@
+.DS_Store
+*.log
+*.aux
+*.blg
+*.nav
+*.snm
+*.toc
+*.pdf
+*.bbl
+*.*~
+*.out
+auto/
+*.abs
+*.xmpdata
+*.xmpi
+
+dist-newstyle
