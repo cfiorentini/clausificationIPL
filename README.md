@@ -124,7 +124,8 @@ a | (a -> b | ~b)
 ( ((a1 <=> a2) =>  a1 & a2 & a3) & ((a2 <=> a3)  =>  a1 & a2 & a3)  & (( a3 <-> a1)  => a1 & a2 & a3 ) )  =>  a1 & a2 & a3  
 ```
 
-You can also use the [TPTP syntax](http://tptp.cs.miami.edu/TPTP/QuickGuide/Problems.html);
+You can also use the [TPTP syntax](http://tptp.cs.miami.edu/TPTP/QuickGuide/Problems.html).
+Examples of formulas aren the `.p` files in the directory `formulas`.
 
 
 
