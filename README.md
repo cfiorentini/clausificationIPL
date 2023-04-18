@@ -30,7 +30,7 @@ To run the generator, you have to install
 
 The file encoding the countermodel generation algorithm is   `generator.lp`.
 You have to supply a file `.lp` encoding the input sequent:
-example of  such files, referring to the examples discussed in the paper,  are available in the directory `encodedSequents`.
+example of  such files, referring to the examples discussed in the paper,  are available in the directory `paperExamples`.
 
 
 
