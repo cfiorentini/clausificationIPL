@@ -73,7 +73,7 @@ in particular:
 
 **Compilation**
 
-From the  root directory (i.e., the directory containing the file  `clausifier.cabal`) run the command:
+From the  root directory (i.e., the directory `clausifier` containing the file  `clausifier.cabal`) run the command:
 
 ```console
  cabal install
