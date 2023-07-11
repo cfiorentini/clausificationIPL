@@ -3,9 +3,9 @@ A new approach to clausification for Intuitionistic Propositional Logic
 
 Here you can download the tools described in the paper
 
-- Camillo Fiorentini, Mauro Ferrari
+- Camillo Fiorentini, Mauro Ferrari.
   [A New Approach to Clausification for Intuitionistic Propositional Logic](https://ceur-ws.org/Vol-3428/paper15.pdf),
-   Proceedings of the 38th Italian Conference on Computational Logic Udine, Italy, June 21-23, 2023 pp. 1-15.
+   Proceedings of the 38th Italian Conference on Computational Logic, Udine, Italy, June 21-23, 2023 pp. 1-15.
 
 
 
