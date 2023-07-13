@@ -7,7 +7,7 @@ Here you can download the tools described in the paper
   [A New Approach to Clausification for Intuitionistic Propositional Logic](https://ceur-ws.org/Vol-3428/paper15.pdf),
    Proceedings of the 38th Italian Conference on Computational Logic, Udine, Italy, June 21-23, 2023 pp. 1-15.
 
-
+You can find the omitted proof  in the [appendix](https://github.com/cfiorentini/clausificationIPL/blob/main/appendix.pdf).
 
 
 We provide the following tools:
